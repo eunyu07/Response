@@ -1,8 +1,8 @@
 import { useState } from "react";
-import img1 from "figma:asset/24a7b96ca5df8760ffbecd0ea3753ba9c963c8a2.png";
-import imgPilates from "figma:asset/9dd49369a3afa3e3a5f8d814512f8515c1ebe9b2.png";
-import imgInterior from "figma:asset/e6185e6816a04db1d1e034c839ccefd41faa09b1.png";
-import imgStudio from "figma:asset/ab40c7be905f6902ab888680ec58c951a0026b4f.png";
+import img1 from "../assets/24a7b96ca5df8760ffbecd0ea3753ba9c963c8a2.png";
+import imgPilates from "../assets/9dd49369a3afa3e3a5f8d814512f8515c1ebe9b2.png";
+import imgInterior from "../assets/e6185e6816a04db1d1e034c839ccefd41faa09b1.png";
+import imgStudio from "../assets/ab40c7be905f6902ab888680ec58c951a0026b4f.png";
 
 // SVG Paths from Figma
 const CAROUSEL_ARROW =
